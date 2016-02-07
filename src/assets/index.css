@@ -1,0 +1,19 @@
+header{
+    height: 4rem;
+    line-height: 4rem;
+    background: rebeccapurple;
+    color: white;
+}
+
+header p{
+    margin: 0;
+    text-align: center;
+}
+
+header a{
+    color: yellow;
+}
+
+main{
+    margin: 0 10px;
+}
